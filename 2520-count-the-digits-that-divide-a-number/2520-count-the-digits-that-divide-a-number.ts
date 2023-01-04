@@ -1,8 +1,8 @@
 function countDigits(num: number): number {
     let res:number = 0;
-    let numsArray: string[] = num.toString().split('');
-    for(let i=0; i< numsArray.length; i++) {
-        if(num % parseInt(numsArray[i]) == 0) res++;
+    let str: string= num.toString();
+    for(let i=0; i< str.length; i++) {
+        if(num % Number(str[i]) == 0) res++;
     }
     return res;
 };
