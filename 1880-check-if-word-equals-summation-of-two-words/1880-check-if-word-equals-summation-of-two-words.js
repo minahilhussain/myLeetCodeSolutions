@@ -10,7 +10,7 @@ var isSumEqual = function(firstWord, secondWord, targetWord) {
 
 const getNumericValue = (str) => {
     let sum = '';
-    for (let i = 0; i < str.length; i++) {
+    for(let i = 0; i < str.length; i++) {
         sum += str.charCodeAt(i) - 97
     }
     return Number(sum);
