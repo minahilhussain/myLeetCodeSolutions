@@ -1,9 +1,9 @@
 function uniqueMorseRepresentations(words: string[]): number {
-    let morseCode = new Set();
+    let morseCode = [];
     for(let i = 0; i < words.length; i++) {
-         morseCode.add(generateMoreCode(words[i]));
+         morseCode.push(generateMoreCode(words[i]));
     }
-    return morseCode.size;
+    return [...new Set(morseCode)].length;
 };
 
 var generateMoreCode = (str) => {
