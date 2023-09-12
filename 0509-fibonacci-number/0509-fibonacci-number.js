@@ -8,7 +8,7 @@ var fib = function(n) {
         let n1 = 1;
         let n0 = 0;
         let n2;
-        for (let i = 0; i <= n - 2; i++) {
+        for (let i = 0; i < n - 1; i++) {
             n2 = n0 + n1;
             n0 = n1;
             n1 = n2;
