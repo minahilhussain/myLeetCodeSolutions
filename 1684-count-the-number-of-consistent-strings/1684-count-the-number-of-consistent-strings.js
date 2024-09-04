@@ -5,9 +5,9 @@
  */
 var countConsistentStrings = function(allowed, words) {
     let count = 0;
-    for(let word of words) {
+    for(word of words) {
       let flag = 0;
-      for(let char of word) {
+      for(char of word) {
           if (!allowed.includes(char)) flag = 1;
       }
       if (flag !== 1) count++;
