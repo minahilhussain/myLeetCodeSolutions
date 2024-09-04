@@ -4,20 +4,20 @@
  * @return {boolean}
  */
 var isAnagram = function(str1, str2) {
-    let arr1 = [], arr2 = [];
-    for (let i = 0; i < 26; i++) {
-        arr1[i] = 0;
-        arr2[i] = 0;
-    }
-    if (str1.length !== str2.length) return false;
+    if(str1.length !== str2.length) return false;
+    let map1 = {};
+    let map2 = {};
     for (let i = 0; i < str1.length; i++) {
-        arr1[str1[i].charCodeAt(0) - 97]++;
-        arr2[str2[i].charCodeAt(0) - 97]++;
+       map1[str1[i]] =  map1[str1[i]] + 1 || 1;
+       map2[str2[i]] =  map2[str2[i]] + 1 || 1;
     }
-    for (let i = 0; i < 26; i++) {
-        if (arr1[i] !== arr2[i]) {
-            return false;
-        }
+    const keys1 = Object.keys(map1);
+    const keys2 = Object.keys(map2);
+    if (keys1.length !== keys2.length) return false;
+    for (const key of keys1) {
+    if (map1[key] !== map2[key]) {
+      return false;
     }
-    return true
+  }
+    return true;
 };
