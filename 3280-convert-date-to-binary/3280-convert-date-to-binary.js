@@ -7,7 +7,7 @@ var getBinary = (num) => {
     while(num > 1) {
        rem = num % 2;
        num = Math.floor(num / 2);
-       binary = rem.toString() + binary;
+       binary = rem + binary;
     }
     return num + binary;
 }
