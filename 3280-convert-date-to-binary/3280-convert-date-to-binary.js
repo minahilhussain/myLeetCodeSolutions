@@ -14,8 +14,9 @@ var getBinary = (num) => {
 
 var convertDateToBinary = function(date) {
    let dateArr =  date.split('-');
-   for (let i = 0; i < dateArr.length; i++)
+   for (let i = 0; i < dateArr.length; i++) {
        dateArr[i] = getBinary(Number(dateArr[i]));
+   }
    const res = dateArr.join('-');
    return res;
  
