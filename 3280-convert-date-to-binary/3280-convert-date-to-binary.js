@@ -14,10 +14,12 @@ var getBinary = (num) => {
 
 var convertDateToBinary = function(date) {
    let dateArr =  date.split('-');
+   let res = ''; 
    for (let i = 0; i < dateArr.length; i++) {
-       dateArr[i] = getBinary(Number(dateArr[i]));
+       res += getBinary(Number(dateArr[i]));
+       if(i !== dateArr.length -1) res += '-'
+       
    }
-   const res = dateArr.join('-');
    return res;
  
 };
