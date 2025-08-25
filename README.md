@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 ## Hash Table
 |  |
@@ -15,5 +16,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1168-duplicate-zeros) |
+## String
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
+## Trie
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
+## String Matching
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
