@@ -4,13 +4,14 @@
  */
 var sortArrayByParityII = function(nums) {
     let result = [];
-    for (let i = 0, even = 0, odd =1; i < nums.length; i++) {
+    let even = 0, odd = 1;
+    for (let i = 0; i < nums.length; i++) {
         if(i % 2 === 0 && nums[i] % 2 === 0 || i % 2 !== 0 && nums[i] % 2 === 0){
             result[even] = nums[i];
-            even +=2;
+            even += 2;
         } else {
             result[odd] = nums[i];
-            odd +=2;
+            odd += 2;
         }
     }
     return result;
