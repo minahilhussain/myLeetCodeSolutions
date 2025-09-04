@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
+| [3830-find-closest-person](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
