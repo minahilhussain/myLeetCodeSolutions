@@ -13,13 +13,10 @@ var arrayRankTransform = function(arr) {
     for (let i = 0; i < sortedOutcome.length; i++) {
         rankMap[sortedOutcome[i]] = i + 1; 
     }
-    console.log(rankMap);
-
     let result = [];
     for (let i = 0; i < arr.length; i++) {
         result[i] = rankMap[arr[i]]; 
     }
-
 
     return result;
 };
