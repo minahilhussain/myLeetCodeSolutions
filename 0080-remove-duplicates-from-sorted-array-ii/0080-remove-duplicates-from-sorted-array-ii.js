@@ -13,6 +13,7 @@ var removeDuplicates = function(nums) {
     }
     nums.length = arr.length;
     for (let i = 0; i < nums.length; i++) {
-        if(arr[i]) nums[i] = arr[i];
+        nums[i] = arr[i];
     }
+    return nums.length;
 };
