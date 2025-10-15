@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
+| [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
