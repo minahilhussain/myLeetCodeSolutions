@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
+| [3811-reverse-degree-of-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [3811-reverse-degree-of-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
