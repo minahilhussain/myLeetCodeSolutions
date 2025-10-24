@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -118,5 +120,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
