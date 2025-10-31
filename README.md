@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3830-find-closest-person) |
 ## Sorting
