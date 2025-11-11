@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3830-find-closest-person) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3811-reverse-degree-of-a-string) |
