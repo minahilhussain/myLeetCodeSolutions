@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2365-percentage-of-letter-in-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2470-removing-stars-from-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
@@ -157,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
