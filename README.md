@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3429-special-array-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3429-special-array-i) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
