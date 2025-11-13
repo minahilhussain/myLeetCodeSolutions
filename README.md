@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3429-special-array-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
