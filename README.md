@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0890-lemonade-change](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
