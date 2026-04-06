@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0890-lemonade-change](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
