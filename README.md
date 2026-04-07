@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0824-goat-latin](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0824-goat-latin/) | Easy |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
