@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1168-duplicate-zeros) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2288-count-operations-to-obtain-zero](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
