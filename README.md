@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2365-percentage-of-letter-in-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Combinatorics
