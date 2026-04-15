@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1002-find-common-characters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1002-find-common-characters/) | Easy |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1168-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1002-find-common-characters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1002-find-common-characters/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0953-reverse-only-letters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0953-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1002-find-common-characters/) | Easy |
 | [1080-camelcase-matching](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1080-camelcase-matching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
