@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3429-special-array-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3429-special-array-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/3478-choose-k-elements-with-maximum-sum/) | Medium |
 | [3778-transform-array-by-parity](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
