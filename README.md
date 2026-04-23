@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0890-lemonade-change](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0898-transpose-matrix) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1002-find-common-characters](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1002-find-common-characters/) | Easy |
 | [1319-unique-number-of-occurrences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0824-goat-latin/) | Easy |
 | [0874-backspace-string-compare](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0874-backspace-string-compare) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
