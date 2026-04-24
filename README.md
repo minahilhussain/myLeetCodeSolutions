@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0461-hamming-distance/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 | Problem Name | Difficulty |
