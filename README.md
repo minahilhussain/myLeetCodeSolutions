@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
