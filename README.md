@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -216,5 +219,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/minahilhussain/myLeetCodeSolutions/tree/main/0204-count-primes/) | Medium |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/minahilhussain/myLeetCodeSolutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
